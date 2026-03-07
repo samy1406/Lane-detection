@@ -15,6 +15,7 @@ A computer vision project that detects road lanes in real-time using Python and 
 - OpenCV
 - NumPy
 - Google Colab
+- 
 
 ## 🚀 How to Run
 1. Open `lane_detection.ipynb` in Google Colab
